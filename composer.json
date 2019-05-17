@@ -1,0 +1,20 @@
+{
+    "name": "rupauls-drag-race-season-11-episode-12-online/watch-vh1",
+    "description": "Watch RuPaul's Drag Race Season 11 Episode 12 Online Free on VH1 ((AVAILABLE HERE))",
+	"keywords": ["RuPauls Drag Race Season 11 Episode 12 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Watch RuPauls Drag Race S11E12 Online",
+            "homepage": "https://t.co/XXbkfrh1Zq",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
